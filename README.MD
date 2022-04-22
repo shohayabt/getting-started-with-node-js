@@ -18,7 +18,7 @@
 
 ##### INSTALL EXPRESS && CROS && MONGODB
 
-<pre><code> npm i express cros mondodb</code></pre>
+<pre><code> npm i express cros mongodb</code></pre>
 
 ##### INSTALL NODEMON
 
