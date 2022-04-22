@@ -40,6 +40,9 @@
     const app = express()
     const port = process.env.PORT || 5000;
 
+    app.use(cros());
+    app.use(express());
+
     app.get('/', (req , res)=>{
     res.send("HELLO WORLD FROM NODE JS || EXPRESS")
     })
