@@ -1,4 +1,4 @@
-# <span style="color: green"> LIST OF TASKS TO STARTED NODE JS && EXPRESS</span>
+### LIST OF TASKS TO STARTING WITH NODE JS && EXPRESS
 
 ### CREATE PROJECT FOLDER
 
@@ -16,15 +16,15 @@
 
 <pre><code>npm init -y</code></pre>
 
-### INSTALL EXPRESS && CROS && MONGODB
+##### INSTALL EXPRESS && CROS && MONGODB
 
 <pre><code> npm i express cros mondodb</code></pre>
 
-### INSTALL NODEMON
+##### INSTALL NODEMON
 
 <pre><code> npm install -g nodemon </code></pre>
 
-### UPDATE SCRIPTS IN package.json FILE
+##### UPDATE SCRIPTS IN package.json FILE
 
 <pre><code> 
     "scripts": {
@@ -33,7 +33,7 @@
     },
 </code></pre>
 
-## PROJECT START WITH INDEX.JS
+#### PROJECT START WITH INDEX.JS
 
 <pre><code> 
     const express = require('express')
@@ -52,7 +52,7 @@
     })
 </code></pre>
 
-## RUN PROJECT IN LOCAL HOST
+#### RUN PROJECT IN LOCAL HOST
 
 <pre><code> 
    npm run start-dev
