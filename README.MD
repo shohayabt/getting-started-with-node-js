@@ -1,18 +1,18 @@
 ### LIST OF TASKS TO STARTING WITH NODE JS && EXPRESS
 
-### CREATE PROJECT FOLDER
+##### CREATE PROJECT FOLDER
 
 <pre><code> mkdir DAY-ONE </code></pre>
 
-### OPEN PROJECT FOLDER
+##### OPEN PROJECT FOLDER
 
 <pre><code> CD DAY-ONE </code></pre>
 
-### OPEN WITH VS CODE
+##### OPEN WITH VS CODE
 
 <pre><code> CODE .</code></pre>
 
-### INITIALIZE NPM
+##### INITIALIZE NPM
 
 <pre><code>npm init -y</code></pre>
 
