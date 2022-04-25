@@ -23,6 +23,9 @@
 ##### INSTALL NODEMON
 
 <pre><code> npm install -g nodemon </code></pre>
+##### INSTALL CROS
+
+<pre><code> npm install cors</code></pre>
 
 ##### UPDATE SCRIPTS IN package.json FILE
 
