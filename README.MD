@@ -16,9 +16,9 @@
 
 <pre><code>npm init -y</code></pre>
 
-##### INSTALL EXPRESS && CROS && MONGODB
+##### INSTALL EXPRESS && CORS && MONGODB
 
-<pre><code> npm i express cros mongodb</code></pre>
+<pre><code> npm i express cors mongodb</code></pre>
 
 ##### INSTALL NODEMON
 
