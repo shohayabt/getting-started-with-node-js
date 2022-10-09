@@ -23,9 +23,6 @@
 ##### INSTALL NODEMON
 
 <pre><code> npm install -g nodemon </code></pre>
-##### INSTALL CROS
-
-<pre><code> npm install cors</code></pre>
 
 ##### UPDATE SCRIPTS IN package.json FILE
 
@@ -41,10 +38,10 @@
 <pre><code> 
     const express = require('express')
     const app = express()
-    const cros = require("cors")
+    const cors = require("cors")
     const port = process.env.PORT || 5000;
 
-    app.use(cros());
+    app.use(cors());
     app.use(express());
 
     app.get('/', (req , res)=>{
