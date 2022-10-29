@@ -49,7 +49,7 @@
     })
 
     app.listen(port,()=>{
-    console.log("CRUD SERVER IS RUNNING ")
+    console.log(`SERVER IS UP - PORT:${port}`)
     })
 </code></pre>
 
