@@ -18,11 +18,11 @@
 
 ##### INSTALL EXPRESS && CORS && MONGODB
 
-<pre><code> npm i express cors mongodb</code></pre>
+<pre><code> npm i express cors mongodb dotenv</code></pre>
 
 ##### INSTALL NODEMON
 
-<pre><code> npm install -g nodemon </code></pre>
+<pre><code> npm install -g nodemon  </code></pre>
 
 ##### UPDATE SCRIPTS IN package.json FILE
 
